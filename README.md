@@ -22,6 +22,7 @@ Nombre de fraudes
 Taux de fraude
 Montant moyen des fraudes
 Dashboard
+<img width="579" height="325" alt="image" src="https://github.com/user-attachments/assets/c4500763-68f3-4d57-a91a-09b73bd1f7aa" />
 
 
 Compétences développées
