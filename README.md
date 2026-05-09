@@ -1,10 +1,10 @@
 # fraud-detection-sql-powerbi
-Analyse de fraude à la carte bancaire
-Description
+# Analyse de fraude à la carte bancaire
+# Description
 
 Projet d’analyse de données bancaires réalisé avec SQL Server et Power BI afin d’identifier des tendances liées aux fraudes à la carte bancaire.
 
-Outils utilisés
+# Outils utilisés
 SQL Server
 SSMS
 Power BI
@@ -21,11 +21,11 @@ Total Transactions
 Nombre de fraudes
 Taux de fraude
 Montant moyen des fraudes
-Dashboard
+# Dashboard
 <img width="579" height="325" alt="image" src="https://github.com/user-attachments/assets/c4500763-68f3-4d57-a91a-09b73bd1f7aa" />
 
 
-Compétences développées
+# Compétences développées
 SQL
 Data Cleaning
 Power BI
